@@ -98,3 +98,12 @@ html, body {
     height: 100%;
     
 }
+
+header .container-1 {
+  position: relative;
+  height: auto;
+  width: auto;
+}
+.custom-status-zoom {
+  zoom: 75%;
+}

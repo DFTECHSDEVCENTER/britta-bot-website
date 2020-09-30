@@ -1,42 +1,45 @@
 #header {
-    background-color: #832fb4;
-    width: auto;
-    height: auto;
+  background-color: #832fb4;
+  width: auto;
+  height: auto;
 }
+
 #header-title {
-    color: white;
-    width: 200px;
+  color: white;
+  width: 200px;
 }
+
 #header-1 {
-    background-color: #7731e9;
-    width: auto;
-    height: auto;
+  background-color: #7731e9;
+  width: auto;
+  height: auto;
 }
+
 .styled {
-    border: 0;
-    line-height: 2.5;
-    padding: 0 20px;
-    font-size: 1rem;
-    text-align: center;
-    color: #fff;
-    text-shadow: 1px 1px 1px #000;
-    border-radius: 10px;
-    background-color: rgb(116, 20, 241);
-    background-image: linear-gradient(to top left,
-                                      rgba(0, 0, 0, .2),
-                                      rgba(0, 0, 0, .2) 30%,
-                                      rgba(0, 0, 0, 0));
-    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
-                inset -2px -2px 3px rgba(0, 0, 0, .6);
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgb(116, 20, 241);
+  background-image: linear-gradient(to top left,
+      rgba(0, 0, 0, .2),
+      rgba(0, 0, 0, .2) 30%,
+      rgba(0, 0, 0, 0));
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+    inset -2px -2px 3px rgba(0, 0, 0, .6);
 }
 
 .styled:hover {
-    background-color: rgb(0, 140, 255);
+  background-color: rgb(0, 140, 255);
 }
 
 .styled:active {
-    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
-                inset 2px 2px 3px rgba(0, 0, 0, .6);
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+    inset 2px 2px 3px rgba(0, 0, 0, .6);
 }
 
 header {
@@ -89,14 +92,15 @@ header .overlay {
   }
 }*/
 
-html, body {
-    height: 100%;
-    margin: 0;
-  }
-  
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
 .full-height {
-    height: 100%;
-    
+  height: 100%;
+
 }
 
 header .container-1 {
@@ -104,6 +108,7 @@ header .container-1 {
   height: auto;
   width: auto;
 }
+
 .custom-status-zoom {
   zoom: 75%;
 }
